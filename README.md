@@ -1,4 +1,4 @@
-
+`Notice: this site takes a while to update sometimes`
 ### Printing
 
 So lets start with the basics, comments and printing!
@@ -17,4 +17,4 @@ multiline comment!
 '''
 ```
 multiline comments have ''' at the end and beggining\
-you have completed this part. click [here](input.md) for the next item
+you have completed this part. click [here](input.html) for the next item
