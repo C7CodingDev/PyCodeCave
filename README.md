@@ -9,7 +9,7 @@ print('HellO World!')
 Notice how Hello Word is in quotation marks? Thats because Hello World is a `string`. What is a `string`? A `string` is used for text, and somtimes other things!.
 ### Comments
 `#Im A Single Line Comment!`
-To do a single line comment we use # and the beggining. 
+To do a single line comment we use # and the beggining. \
 `'''`\
 `i am a`\
 `multiline comment!`\
