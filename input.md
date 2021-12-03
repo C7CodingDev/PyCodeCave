@@ -24,4 +24,4 @@ our ouput should be\
 ```
 no
 ```
-you have completed this! click [here](3.md) to go to the next course.
+you have completed this! click [here](vars.html) to go to the next course.
