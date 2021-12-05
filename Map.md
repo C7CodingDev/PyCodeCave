@@ -1,5 +1,5 @@
 ## Sitemap
-[`Introduction`](PagesWithExternaliems/intro.html)
+[`Introduction`](PagesWithExternalitems/intro.html)\
 [`Printing and input`](My1stProject.html)\
 [`More Input`](Input.html)\
 [`Vars/Varibles`](Vars.html)\
