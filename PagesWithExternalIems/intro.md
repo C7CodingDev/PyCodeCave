@@ -7,4 +7,5 @@ Python is a coding launguage for coding games,bots and more! its also pretty pop
 ![image](https://user-images.githubusercontent.com/76494513/144761008-0a24eb42-f386-400f-8d39-af088c848dc1.png)\
 [image from https://www.northeastern.edu/]\
 [the 1st image is mine, but the one below the 1st one is not mine [credits above this text]\
+[1st image might be outdated for some launguages]
 [`Continue to corse`](My1stProject.html)
