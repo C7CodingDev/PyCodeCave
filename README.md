@@ -4,3 +4,4 @@ Welcome! Thanks for visiting!\
 > Please Note: This is in beta phase and may not have alot of pages. Thank you!\
 > Operated by cooldudeseven7\
 > subscribe to cooldudeseven7!
+[SiteMap](Map.html)
