@@ -25,3 +25,4 @@ our ouput should be\
 no
 ```
 you have completed this! click [here](vars.html) to go to the next course.
+[SiteMap](Map.html)
