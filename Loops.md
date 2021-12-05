@@ -14,4 +14,5 @@ To do a infinate loop do the following:
 ```python
 while True:
  print('this might crash stuff')
-it will print `this might crash stuff` infinate
+ ```
+and it should print it a bunch of times.
