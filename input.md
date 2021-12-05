@@ -24,6 +24,6 @@ our ouput should be\
 ```
 no
 ```
-[`Next Course`](Vars.html)
+[`Next Course`](vars.html)
 [`SiteMap`](Map.html)
 
