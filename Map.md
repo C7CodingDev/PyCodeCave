@@ -1,8 +1,10 @@
 ## Sitemap
-[Printing and input](My1stProject.html)\
-[More Input](Input.html)\
-[Vars/Varibles](Vars.html)\
-[Loops](Loops.html)
+[`Printing and input`](My1stProject.html)\
+[`More Input`](Input.html)\
+[`Vars/Varibles`](Vars.html)\
+[`Loops`](Loops.html)
 ```
 More coming soon
 ```
+
+[`Home`](My1stProject.html)
