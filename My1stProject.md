@@ -19,6 +19,6 @@ multiline comment!
 '''
 ```
 multiline comments have ''' at the end and beggining\
-[`Next Course`](Input.html)
+[`Next Course`](input.html)
 [`SiteMap`](Map.html)
 
