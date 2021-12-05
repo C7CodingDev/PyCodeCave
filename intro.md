@@ -1,12 +1,8 @@
-## Introduction
-Python is a coding launguage for coding games,bots and more!
-its also pretty popular:
-Laungage  | users
--|-
-python | 8 million [2021]
-c++ | 6.3 million [no date info]
-php | 6.1 million [2019]
-go  | 1.1 million/2.7 million [no date info]
+### Introduction
+
+Python is a coding launguage for coding games,bots and more! its also pretty popular:
+![Screenshot 2021-12-05 2 46 31 PM](https://user-images.githubusercontent.com/76494513/144761301-5912de73-018d-435d-a50d-0cfc22e6ad0a.png)
+[its an image because otherwise it wont show]
 --------------------------------------
 ![image](https://user-images.githubusercontent.com/76494513/144761008-0a24eb42-f386-400f-8d39-af088c848dc1.png)\
 [image from https://www.northeastern.edu/]\
