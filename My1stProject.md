@@ -19,5 +19,6 @@ multiline comment!
 '''
 ```
 multiline comments have ''' at the end and beggining\
-you have completed this part. click [here](input.html) for the next item
-[SiteMap](Map.html)
+[`Next Course`](Input.html)
+[`SiteMap`](Map.html)
+
