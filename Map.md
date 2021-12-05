@@ -1,2 +1,2 @@
-[Printing and input](My1stProject.html)
-[]
+[Printing and input](My1stProject.html)\
+[More Input](Input.html)\
