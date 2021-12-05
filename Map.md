@@ -7,4 +7,4 @@
 More coming soon
 ```
 
-[`Home`](My1stProject.html)
+[`Home`](https://cooldudeseven7.github.io/The7CodersProject/)
