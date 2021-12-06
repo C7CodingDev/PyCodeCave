@@ -1,1 +1,4 @@
-theme: jekyll-theme-whiteglass
+theme: jekyll-theme-architect
+url: "https://example.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
