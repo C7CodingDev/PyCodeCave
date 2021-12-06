@@ -15,5 +15,5 @@ To do a infinate loop do the following:
 while True:
  print('this might crash stuff')
  ```
-and it should print it a bunch of times.
-[`SiteMap`](Map.html)
+and it should print it a bunch of times.\
+[`SiteMap`](Map.html) [Next Course](statments.html)
