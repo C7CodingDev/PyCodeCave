@@ -9,3 +9,4 @@ Thank you!\
 > Operated by cooldudeseven7\
 > subscribe to cooldudeseven7!
 [`SiteMap`](Map.html)
+[`about`](about.html)
