@@ -8,4 +8,4 @@ Python is a coding launguage for coding games,bots and more! its also pretty pop
 [image from https://www.northeastern.edu/]\
 [the 1st image is mine, but the one below the 1st one is not mine [credits above this text]\
 [1st image might be outdated for some launguages]
-[`Continue to corse`](https://cooldudeseven7.github.io/The7CodersProject/My1stProject.html)
+[`Continue to corse`](My1stProject.html)
