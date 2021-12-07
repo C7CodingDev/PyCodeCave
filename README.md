@@ -5,7 +5,7 @@ Thank you!\
 \
 \
 LAST UPDATED:\
-<img src="https://img.shields.io/github/last-commit/C7CodingDev/The7CodersProject/main" alt="preview badge"/>
+<img src="https://img.shields.io/github/last-commit/C7CodingDev/The7CodersProject/main?style=for-the-badge" alt="preview badge"/>
 
 [`Click Here To Go To the learning page`](intro.html)
 > Please Note: This is in beta phase and may not have alot of pages. Thank you!\
